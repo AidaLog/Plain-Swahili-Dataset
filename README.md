@@ -1,2 +1,2 @@
 # Datasets
-Public;y collected dataset from Tanzania
+Public collected dataset from Tanzania
